@@ -1,0 +1,10 @@
+# The supplied resumes are local source material, not website assets.
+*.pdf
+.DS_Store
+portfolio/node_modules/
+portfolio/.next/
+portfolio/test-results/
+portfolio/playwright-report/
+portfolio/.env*
+!portfolio/.env.example
+*.vscode*
